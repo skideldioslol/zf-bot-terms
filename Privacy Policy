@@ -1,0 +1,112 @@
+Privacy Policy – ZF Bot
+
+Última actualización: [coloca la fecha de hoy]
+
+1. Introducción
+
+ZF Bot (en adelante, “el Bot”) es un bot de Discord desarrollado y administrado por skideldios. Esta Política de Privacidad describe cómo se recopila, utiliza, almacena y protege la información cuando el Bot es utilizado dentro de servidores de Discord.
+
+El uso del Bot implica la aceptación total de esta Política de Privacidad.
+
+2. Información que el Bot recopila
+
+ZF Bot no recopila información personal sensible fuera de lo estrictamente necesario para su funcionamiento. La información que puede ser procesada incluye:
+
+IDs de usuarios, servidores, roles y canales de Discord
+
+Contenido de mensajes únicamente cuando es necesario para:
+
+Moderación
+
+Detección de palabras clave
+
+Ejecución de comandos
+
+Registros de advertencias (warns), incluyendo:
+
+ID del usuario
+
+ID del moderador
+
+Razón de la advertencia
+
+Fecha y hora
+
+Información relacionada con roles y phases asignadas
+
+El Bot no accede ni almacena contraseñas, correos electrónicos, direcciones IP ni datos externos a Discord.
+
+3. Uso de la información
+
+La información recopilada se utiliza exclusivamente para:
+
+Ejecutar comandos solicitados por los usuarios
+
+Aplicar sistemas de moderación y control
+
+Asignar o retirar roles (phases, tiers y subtiers)
+
+Mantener registros internos de advertencias
+
+Enviar registros a canales de moderación designados
+
+La información no se utiliza con fines comerciales, publicitarios ni de seguimiento externo.
+
+4. Almacenamiento de datos
+
+Los datos manejados por ZF Bot:
+
+Se almacenan de forma temporal o local
+
+No se venden, comparten ni transfieren a terceros
+
+Se eliminan cuando dejan de ser necesarios para la funcionalidad del Bot
+
+El desarrollador se reserva el derecho de limpiar o restablecer los datos en cualquier momento.
+
+5. Compartición de datos
+
+ZF Bot no comparte datos con servicios externos, terceros, APIs ajenas ni plataformas de análisis.
+
+La información solo es visible para:
+
+El propietario del Bot (skideldios)
+
+El personal autorizado del servidor donde se ejecuta el Bot
+
+6. Permisos de Discord
+
+ZF Bot opera únicamente con los permisos que le otorgan los administradores del servidor. El Bot no excede dichos permisos ni realiza acciones fuera de su alcance autorizado.
+
+7. Seguridad
+
+Se aplican medidas razonables para proteger la información procesada por el Bot. Sin embargo, el desarrollador no puede garantizar seguridad absoluta, dado que la plataforma Discord y los servidores donde se aloja el Bot están fuera de su control directo.
+
+8. Derechos de los usuarios
+
+Los administradores de un servidor pueden:
+
+Solicitar la eliminación de datos relacionados con su servidor
+
+Revocar permisos o expulsar el Bot en cualquier momento
+
+Los usuarios pueden contactar al desarrollador para consultas relacionadas con privacidad.
+
+9. Uso por menores
+
+ZF Bot no está diseñado para recopilar información de menores de edad. Su uso está sujeto a los Términos de Servicio de Discord.
+
+10. Cambios en esta Política
+
+Esta Política de Privacidad puede actualizarse en cualquier momento. Las modificaciones entrarán en vigor inmediatamente después de su publicación en la URL oficial.
+
+11. Contacto
+
+Para consultas, reportes o solicitudes relacionadas con privacidad, puedes contactar al propietario del Bot:
+
+Propietario: skideldios
+Plataforma: Discord
+
+12. Aceptación
+
+El uso continuo de ZF Bot implica la aceptación plena de esta Política de Privacidad.
