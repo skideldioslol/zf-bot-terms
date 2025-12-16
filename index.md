@@ -1,0 +1,128 @@
+TÉRMINOS Y CONDICIONES DE USO DEL BOT ZF
+
+Última actualización: [puedes colocar la fecha]
+
+El presente documento establece los Términos y Condiciones bajo los cuales se autoriza el uso del bot ZF (en adelante, “el Bot”), desarrollado y administrado por su propietario skideldios. Al interactuar, utilizar o integrar el Bot en cualquier servidor de Discord, el usuario acepta plenamente estos términos.
+
+1. PROPIEDAD Y DERECHOS DE USO
+
+El Bot ZF, incluyendo su código fuente, lógica, comandos, respuestas automáticas, sistemas de moderación y estructura funcional, es propiedad exclusiva de skideldios.
+
+❌ Está prohibido copiar, clonar, modificar, redistribuir o alojar el Bot en otros servidores sin autorización expresa del propietario.
+
+❌ No se permite el uso del código total o parcial para otros bots o proyectos sin permiso.
+
+✅ El uso del Bot está limitado únicamente a los servidores autorizados por skideldios.
+
+Cualquier uso no autorizado será considerado una violación directa de estos términos.
+
+2. FUNCIONALIDAD Y MODERACIÓN
+
+El Bot incluye funciones de:
+
+Moderación automática y manual.
+
+Detección de palabras clave.
+
+Registro de eventos (logs).
+
+Gestión de advertencias (warns).
+
+Asignación y administración de roles (phases, tiers y subtiers).
+
+Bloqueo y desbloqueo de canales.
+
+Comandos exclusivos para staff y owner.
+
+El Bot puede:
+
+Responder automáticamente a mensajes.
+
+Mencionar usuarios o roles.
+
+Registrar acciones del staff en canales privados.
+
+Restringir temporal o permanentemente funciones según configuración.
+
+3. USO ADECUADO
+
+Queda estrictamente prohibido:
+
+Utilizar el Bot para acoso, spam, flood o abuso.
+
+Intentar explotar errores, vulnerabilidades o fallos del Bot.
+
+Forzar menciones masivas o provocar spam deliberado.
+
+Alterar su funcionamiento mediante configuraciones no autorizadas.
+
+Usar el Bot con fines ilegales o contrarios a las normas de Discord.
+
+El mal uso del Bot puede resultar en:
+
+Restricción de comandos.
+
+Bloqueo de funciones.
+
+Retiro total del Bot del servidor.
+
+4. PERMISOS Y ROLES
+
+Algunas funciones del Bot están limitadas a roles específicos (Mod, Staff, Owner, etc.).
+
+El acceso a comandos sensibles depende del rol asignado.
+
+El Bot no se hace responsable si un servidor otorga permisos incorrectos a usuarios no autorizados.
+
+La gestión de roles como Phase, Tier y Subtier sigue la lógica interna del Bot y puede reemplazar roles previos si así está configurado.
+
+5. REGISTRO Y PRIVACIDAD
+
+El Bot puede almacenar temporalmente información como:
+
+Advertencias (warns).
+
+Nombres de usuarios y moderadores.
+
+Fechas y razones de acciones.
+
+Registros enviados a canales de logs.
+
+Esta información:
+
+Se usa únicamente con fines de moderación interna.
+
+No se comparte con terceros.
+
+Puede ser eliminada o reiniciada en cualquier momento por el propietario.
+
+6. DISPONIBILIDAD Y RESPONSABILIDAD
+
+El Bot puede presentar caídas, reinicios o mantenimiento sin previo aviso.
+
+No se garantiza disponibilidad continua.
+
+El propietario no se responsabiliza por pérdidas de mensajes, roles o datos causadas por errores técnicos.
+
+El uso del Bot es bajo responsabilidad del servidor que lo integra.
+
+7. MODIFICACIONES DE LOS TÉRMINOS
+
+skideldios. se reserva el derecho de:
+
+Modificar estos Términos y Condiciones en cualquier momento.
+
+Añadir o eliminar funciones del Bot.
+
+Retirar el acceso al Bot a cualquier servidor sin previo aviso.
+
+El uso continuado del Bot implica la aceptación de cualquier cambio realizado.
+
+8. ACEPTACIÓN
+
+Al utilizar el Bot ZF, el usuario y el servidor aceptan plenamente todos los puntos aquí descritos.
+Si no está de acuerdo con estos términos, debe dejar de usar el Bot inmediatamente.
+
+Propietario y desarrollador:
+skideldios.
+GRACIAS POR USAR EL BOT <3
